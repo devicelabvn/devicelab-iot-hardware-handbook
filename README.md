@@ -141,7 +141,6 @@ Trong các trạm quan trắc nước thải, khí thải tự động liên t�
 ---
 *Bản quyền tài liệu thuộc về [DeviceLab](https://devicelab.vn/) - Đối tác R&D & Sản xuất Thiết bị Điện tử Nhúng Công nghiệp Việt Nam.*
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)
