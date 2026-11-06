@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://devicelab.vn/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-dark.svg?v=3.45.0">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0">
+      <img alt="DeviceLab - Industrial IoT Hardware & Embedded R&D" src="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0" height="38">
+    </picture>
+  </a>
+</p>
+
 # DeviceLab IoT & Embedded Hardware Handbook 📘
 
 > **Tài liệu tham khảo kỹ thuật mở về Thiết kế Mạch Điện Tử (PCB/PCBA), Lập Trình Firmware Nhúng (STM32/ESP32), Datalogger Quan Trắc TT10 và IoT Gateway Công Nghiệp.**  
